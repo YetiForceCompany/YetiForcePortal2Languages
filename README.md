@@ -1,4 +1,4 @@
-# YetiForcePortal2 | YetiForce Customer Portal - The Language Package
+# YetiForcePortal2 | The Language Package
 
 YetiForce Customer Portal is available in many different languages and they all can be found in our project at [Crowdin](https://crowdin.com/project/yetiforceportal2). 
 
