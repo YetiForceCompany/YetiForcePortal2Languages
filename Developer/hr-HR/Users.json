@@ -1,0 +1,10 @@
+{
+  "php": {
+    "Login": "Prijava",
+    "LBL_LOGIN_PAGE": "Login page",
+    "LBL_EMAIL_ADDRESS": "E-pošta",
+    "LBL_PASSWORD": "Lozinka",
+    "LBL_SINGN_IN": "Prijava"
+  },
+  "js": {}
+}

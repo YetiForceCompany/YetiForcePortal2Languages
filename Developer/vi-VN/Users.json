@@ -1,0 +1,10 @@
+{
+  "php": {
+    "Login": "Đăng nhập",
+    "LBL_LOGIN_PAGE": "Login page",
+    "LBL_EMAIL_ADDRESS": "Thư điện tử",
+    "LBL_PASSWORD": "Mật khẩu",
+    "LBL_SINGN_IN": "Đăng nhập"
+  },
+  "js": {}
+}

@@ -1,0 +1,10 @@
+{
+  "php": {
+    "Login": "ورود",
+    "LBL_LOGIN_PAGE": "Login page",
+    "LBL_EMAIL_ADDRESS": "ایمیل",
+    "LBL_PASSWORD": "گذرواژه",
+    "LBL_SINGN_IN": "ورود به سامانه"
+  },
+  "js": {}
+}

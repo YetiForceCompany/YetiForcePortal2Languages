@@ -1,0 +1,10 @@
+{
+  "php": {
+    "Login": "Accesso",
+    "LBL_LOGIN_PAGE": "Login page",
+    "LBL_EMAIL_ADDRESS": "Email",
+    "LBL_PASSWORD": "Password",
+    "LBL_SINGN_IN": "Accedi"
+  },
+  "js": {}
+}
