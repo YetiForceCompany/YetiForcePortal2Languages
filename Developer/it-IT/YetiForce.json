@@ -1,16 +1,16 @@
 {
   "php": {
-    "LBL_MORE_LIBRARY_INFO": "Library details",
-    "LBL_LICENSE": "License",
-    "LBL_LIBRARY_NAME": "Name",
-    "LBL_VERSION": "Version",
+    "LBL_MORE_LIBRARY_INFO": "Dettagli libreria",
+    "LBL_LICENSE": "Licenza",
+    "LBL_LIBRARY_NAME": "Nome",
+    "LBL_VERSION": "Versione",
     "LBL_CREDITS_DESCRIPTION": " ",
-    "LBL_VIEW_CREDITS": "Licenses",
-    "LBL_MISSING_FILE": "Missing file",
-    "LBL_MISSING_LICENSE_FILE": "Missing license file",
-    "LBL_SHOW_MORE": "Show more",
-    "LBL_LIBRARY_HOMEPAGE": "Open library\"s website",
-    "LBL_GLOBAL_SEARCH": "Type keyword and press enter"
+    "LBL_VIEW_CREDITS": "Licenze",
+    "LBL_MISSING_FILE": "File mancante",
+    "LBL_MISSING_LICENSE_FILE": "File di licenza mancante",
+    "LBL_SHOW_MORE": "Mostra di più",
+    "LBL_LIBRARY_HOMEPAGE": "Apri il sito web della libreria",
+    "LBL_GLOBAL_SEARCH": "Digita la parola chiave e premi Inserisci"
   },
   "js": {}
 }

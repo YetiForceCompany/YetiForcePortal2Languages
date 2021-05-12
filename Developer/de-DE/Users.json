@@ -1,7 +1,7 @@
 {
   "php": {
     "Login": "Login",
-    "LBL_LOGIN_PAGE": "Login page",
+    "LBL_LOGIN_PAGE": "Anmeldeseite",
     "LBL_EMAIL_ADDRESS": "E-Mail",
     "LBL_PASSWORD": "Passwort",
     "LBL_SINGN_IN": "Anmelden"

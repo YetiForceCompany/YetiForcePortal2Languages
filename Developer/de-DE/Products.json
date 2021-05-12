@@ -33,7 +33,7 @@
     "LBL_BANKACCOUNTADDRESS": "Addresse",
     "LBL_BANKACCOUNTNUMBER": "Kontonummer",
     "LBL_ATTENTION": "Kommentare",
-    "LBL_ADDRESS_IS_EMPTY": "No address data"
+    "LBL_ADDRESS_IS_EMPTY": "Keine Adressdaten"
   },
   "js": {
     "LBL_VERIFY_ADDRESS": "Lieferadresse überprüfen",

@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_CUSTOMER_PORTAL": "Customer Portal",
+    "LBL_CUSTOMER_PORTAL": "Kundenportal",
     "LBL_DEBUG_CONSOLE": "API Debugging Konsole",
     "LBL_CORE_LOG": "Protokoll",
     "LBL_FIRST": "Erster",
@@ -10,7 +10,7 @@
     "LBL_VIEW_LISTVIEW": "Liste",
     "LBL_VIEW_DETAILVIEW": "Vorschau",
     "LBL_VIEW_EDITVIEW": "Bearbeiten",
-    "LBL_FOOTER_CONTENT": "Creating YetiForce software was possible thanks to the %s.",
+    "LBL_FOOTER_CONTENT": "YetiForce Software zu erstellen war möglich dank der Unterstützung von %s.",
     "LBL_ALL_RECORDS": "Alle Module",
     "LBL_CHAT": "Chat",
     "LBL_QUICK_CREATE": "Schnellauswahl",
@@ -23,14 +23,15 @@
     "LBL_STEP_BACK": "Zurück",
     "LBL_BACKTRACE": "Rückverfolgung",
     "LBL_MESSAGE": "Nachricht",
-    "LBL_ERROR_CODE": "Fehler!!! Code:",
-    "LBL_EXCEPTION": "Exception",
+    "LBL_ERROR_CODE": "Error code",
+    "LBL_EXCEPTION": "Ausnahme",
     "LBL_SELECT": "Suche",
     "LBL_CLEAR": "Leeren",
     "LBL_RELATED_MODULE_TYPE": "Modul auswählen",
     "BTN_CANCEL": "Abbrechen",
     "BTN_EDIT": "Bearbeiten",
     "BTN_SAVE": "Speichern",
+    "BTN_EXPORT_PDF": "Export PDF",
     "PLL_SELECT_OPTION": "Wählen",
     "LBL_ADDRESS_ADDRESSLEVEL1": "Land",
     "LBL_ADDRESS_ADDRESSLEVEL2": "Bundesland",
@@ -126,7 +127,7 @@
     "JS_VALUE_SHOULD_BE_GREATER_THAN_ZERO": "sollte größer als Null sein",
     "JS_LOADING_PLEASE_WAIT": "Wird geladen, bitte warten.",
     "JS_NO_SUCH_QUANTITY": "Es gibt keine solche Produktmenge",
-    "JS_FULL_TEXT": "Full text",
-    "JS_CLOSE": "Close"
+    "JS_FULL_TEXT": "Vollständiger Text",
+    "JS_CLOSE": "Schließen"
   }
 }

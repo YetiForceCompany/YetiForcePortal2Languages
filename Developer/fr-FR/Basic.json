@@ -1,6 +1,6 @@
 {
   "php": {
-    "LBL_CUSTOMER_PORTAL": "Customer Portal",
+    "LBL_CUSTOMER_PORTAL": "Portail Client",
     "LBL_DEBUG_CONSOLE": "Console de débogage API",
     "LBL_CORE_LOG": "Log",
     "LBL_FIRST": "Premier",
@@ -23,7 +23,7 @@
     "LBL_STEP_BACK": "Revenir en arrière",
     "LBL_BACKTRACE": "Backtrace",
     "LBL_MESSAGE": "Message",
-    "LBL_ERROR_CODE": "Code d'erreur :",
+    "LBL_ERROR_CODE": "Code d'erreur",
     "LBL_EXCEPTION": "Exception",
     "LBL_SELECT": "Chercher",
     "LBL_CLEAR": "Effacer",
@@ -31,6 +31,7 @@
     "BTN_CANCEL": "Annuler",
     "BTN_EDIT": "Éditer",
     "BTN_SAVE": "Sauvergarder",
+    "BTN_EXPORT_PDF": "Export PDF",
     "PLL_SELECT_OPTION": "Sélectionner",
     "LBL_ADDRESS_ADDRESSLEVEL1": "Pays",
     "LBL_ADDRESS_ADDRESSLEVEL2": "État",

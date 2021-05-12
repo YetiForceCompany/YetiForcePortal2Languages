@@ -1,16 +1,16 @@
 {
   "php": {
-    "LBL_INSTALLATION_WIZARD": "Installation wizard",
-    "LBL_INSTALLATION_WIZARD_TITLE": "YetiForce Customer Portal - Installation wizard",
-    "LBL_WELCOME_TO_SETUP_WIZARD": "Welcome to Customer Portal installation wizard",
+    "LBL_INSTALLATION_WIZARD": "Installationsassistent",
+    "LBL_INSTALLATION_WIZARD_TITLE": "YetiForce Kundenportal - Installationsassistent",
+    "LBL_WELCOME_TO_SETUP_WIZARD": "Willkommen beim Installationsassistenten des YetiForce Kundenportals",
     "LBL_SETUP_WIZARD_DESCRIPTION": "Dieser Assistent hilft Ihnen, den Installationsprozess des YetiForce Portals zu durchlaufen",
     "LBL_INSTALL_BUTTON": "Installieren",
-    "LBL_API_PATH": "API URL",
+    "LBL_API_PATH": "API-URL",
     "LBL_API_KEY": "API-Schlüssel",
     "LBL_SERVER_NAME": "Login",
     "LBL_SERVER_PASS": "Passwort",
     "LBL_WRONG_PROPERTIES": "Falsche Parameter",
-    "ERR_NOT_ENTERED_REQUIRED_DATA": "The required data has not been entered"
+    "ERR_NOT_ENTERED_REQUIRED_DATA": "Die erforderlichen Daten wurden nicht eingegeben"
   },
   "js": {}
 }
