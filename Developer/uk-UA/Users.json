@@ -1,7 +1,7 @@
 {
   "php": {
     "Login": "Логін",
-    "LBL_LOGIN_PAGE": "Login page",
+    "LBL_LOGIN_PAGE": "Сторінка входу",
     "LBL_EMAIL_ADDRESS": "Ел. пошта",
     "LBL_PASSWORD": "Пароль",
     "LBL_SINGN_IN": "Увійти"

@@ -1,8 +1,8 @@
 {
   "php": {
-    "LBL_INSTALLATION_WIZARD": "Installation wizard",
-    "LBL_INSTALLATION_WIZARD_TITLE": "YetiForce Customer Portal - Installation wizard",
-    "LBL_WELCOME_TO_SETUP_WIZARD": "Welcome to Customer Portal installation wizard",
+    "LBL_INSTALLATION_WIZARD": "Майстер встановлення",
+    "LBL_INSTALLATION_WIZARD_TITLE": "Портал клієнта YetiForce - Майстер встановлення",
+    "LBL_WELCOME_TO_SETUP_WIZARD": "Ласкаво просимо до майстра установки Порталу YetiForce",
     "LBL_SETUP_WIZARD_DESCRIPTION": "Цей майстер допоможе вам пройти процес встановлення Порталу YetiForce",
     "LBL_INSTALL_BUTTON": "Встановити",
     "LBL_API_PATH": "API URL",
@@ -10,7 +10,7 @@
     "LBL_SERVER_NAME": "Логін",
     "LBL_SERVER_PASS": "Пароль",
     "LBL_WRONG_PROPERTIES": "Невірні параметри",
-    "ERR_NOT_ENTERED_REQUIRED_DATA": "The required data has not been entered"
+    "ERR_NOT_ENTERED_REQUIRED_DATA": "Необхідні дані не введено"
   },
   "js": {}
 }

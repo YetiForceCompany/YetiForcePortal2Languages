@@ -1,16 +1,16 @@
 {
   "php": {
-    "LBL_MORE_LIBRARY_INFO": "Library details",
-    "LBL_LICENSE": "License",
-    "LBL_LIBRARY_NAME": "Name",
-    "LBL_VERSION": "Version",
+    "LBL_MORE_LIBRARY_INFO": "Деталі бібліотеки",
+    "LBL_LICENSE": "Ліцензія",
+    "LBL_LIBRARY_NAME": "Назва",
+    "LBL_VERSION": "Версія",
     "LBL_CREDITS_DESCRIPTION": " ",
-    "LBL_VIEW_CREDITS": "Licenses",
-    "LBL_MISSING_FILE": "Missing file",
-    "LBL_MISSING_LICENSE_FILE": "Missing license file",
-    "LBL_SHOW_MORE": "Show more",
-    "LBL_LIBRARY_HOMEPAGE": "Open library\"s website",
-    "LBL_GLOBAL_SEARCH": "Type keyword and press enter"
+    "LBL_VIEW_CREDITS": "Ліцензії",
+    "LBL_MISSING_FILE": "Відсутній файл",
+    "LBL_MISSING_LICENSE_FILE": "Відсутній файл ліцензії",
+    "LBL_SHOW_MORE": "Показати більше",
+    "LBL_LIBRARY_HOMEPAGE": "Відкрити сайт бібліотеки",
+    "LBL_GLOBAL_SEARCH": "Введіть слово для пошуку"
   },
   "js": {}
 }
