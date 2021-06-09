@@ -25,6 +25,7 @@
     "LBL_MESSAGE": "Mensaje",
     "LBL_ERROR_CODE": "Error code",
     "LBL_EXCEPTION": "Exception",
+    "ERR_OCCURRED_ERROR": "Error occurred, please inform the administrator",
     "LBL_SELECT": "Buscar",
     "LBL_CLEAR": "Limpiar",
     "LBL_RELATED_MODULE_TYPE": "Seleccionar módulo",
@@ -56,9 +57,16 @@
     "BTN_GENERATE_PDF": "Generar",
     "LBL_SUM_OPEN_ORDERS": "Suma de órdenes de pedidos abiertas",
     "LBL_CREDIT_LIMIT": "Límite de crédito",
-    "LBL_HOME": "Tablero de instrumentos"
+    "LBL_HOME": "Tablero de instrumentos",
+    "FL_LOGIN_TIME": "Last login time",
+    "FL_STATUS": "Status",
+    "LBL_USER_AGENT": "User agent",
+    "LBL_IP_ADDRESS": "IP Address",
+    "LBL_WEB_LOAD_TIME": "Page loading time"
   },
   "js": {
+    "JS_YES": "Yes",
+    "JS_NO": "No",
     "JS_TODAY": "Hoy",
     "JS_CLEAR_HISTORY": "Borrar historial",
     "JS_YESTERDAY": "Ayer",
@@ -130,6 +138,8 @@
     "JS_LOADING_PLEASE_WAIT": "Cargando, por favor espere.",
     "JS_NO_SUCH_QUANTITY": "No hay tal cantidad de producto",
     "JS_FULL_TEXT": "Full text",
-    "JS_CLOSE": "Close"
+    "JS_CLOSE": "Close",
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Are you sure that you want to delete?",
+    "JS_MAXIMUM_TEXT_SIZE_IN_BYTES": "Exceeded the maximum text size in bytes"
   }
 }

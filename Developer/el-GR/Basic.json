@@ -25,6 +25,7 @@
     "LBL_MESSAGE": "Μήνυμα",
     "LBL_ERROR_CODE": "Error code",
     "LBL_EXCEPTION": "Exception",
+    "ERR_OCCURRED_ERROR": "Error occurred, please inform the administrator",
     "LBL_SELECT": "Αναζήτηση",
     "LBL_CLEAR": "Εκκαθάριση",
     "LBL_RELATED_MODULE_TYPE": "Επιλέξτε module",
@@ -56,9 +57,16 @@
     "BTN_GENERATE_PDF": "Δημιουργία",
     "LBL_SUM_OPEN_ORDERS": "Σύνολο όλων των ανοικτών παραγγελιών",
     "LBL_CREDIT_LIMIT": "Πιστωτικά όρια",
-    "LBL_HOME": "Ταμπλό"
+    "LBL_HOME": "Ταμπλό",
+    "FL_LOGIN_TIME": "Last login time",
+    "FL_STATUS": "Status",
+    "LBL_USER_AGENT": "User agent",
+    "LBL_IP_ADDRESS": "IP Address",
+    "LBL_WEB_LOAD_TIME": "Page loading time"
   },
   "js": {
+    "JS_YES": "Yes",
+    "JS_NO": "No",
     "JS_TODAY": "Σήμερα",
     "JS_CLEAR_HISTORY": "Εκκαθάριση Ιστορικού",
     "JS_YESTERDAY": "Χθες",
@@ -130,6 +138,8 @@
     "JS_LOADING_PLEASE_WAIT": "Φόρτωση, παρακαλώ περιμένετε.",
     "JS_NO_SUCH_QUANTITY": "Δεν υπάρχει τέτοια ποσότητα προϊόντος",
     "JS_FULL_TEXT": "Πλήρες κείμενο",
-    "JS_CLOSE": "Κλείσιμο"
+    "JS_CLOSE": "Κλείσιμο",
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Are you sure that you want to delete?",
+    "JS_MAXIMUM_TEXT_SIZE_IN_BYTES": "Exceeded the maximum text size in bytes"
   }
 }

@@ -25,6 +25,7 @@
     "LBL_MESSAGE": "Съобщение",
     "LBL_ERROR_CODE": "Error code",
     "LBL_EXCEPTION": "Exception",
+    "ERR_OCCURRED_ERROR": "Error occurred, please inform the administrator",
     "LBL_SELECT": "Търсене",
     "LBL_CLEAR": "Изчистване",
     "LBL_RELATED_MODULE_TYPE": "Избиране на модул",
@@ -56,9 +57,16 @@
     "BTN_GENERATE_PDF": "Генерирай",
     "LBL_SUM_OPEN_ORDERS": "Обща сума на отворените поръчки",
     "LBL_CREDIT_LIMIT": "Ограничения от продавача",
-    "LBL_HOME": "Табло"
+    "LBL_HOME": "Табло",
+    "FL_LOGIN_TIME": "Last login time",
+    "FL_STATUS": "Status",
+    "LBL_USER_AGENT": "User agent",
+    "LBL_IP_ADDRESS": "IP Address",
+    "LBL_WEB_LOAD_TIME": "Page loading time"
   },
   "js": {
+    "JS_YES": "Yes",
+    "JS_NO": "No",
     "JS_TODAY": "Днес",
     "JS_CLEAR_HISTORY": "Изчистване на хронологията",
     "JS_YESTERDAY": "Вчера",
@@ -130,6 +138,8 @@
     "JS_LOADING_PLEASE_WAIT": "Зареждане, моля изчакайте.",
     "JS_NO_SUCH_QUANTITY": "Няма такова количество на стокa",
     "JS_FULL_TEXT": "Full text",
-    "JS_CLOSE": "Close"
+    "JS_CLOSE": "Close",
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Are you sure that you want to delete?",
+    "JS_MAXIMUM_TEXT_SIZE_IN_BYTES": "Exceeded the maximum text size in bytes"
   }
 }

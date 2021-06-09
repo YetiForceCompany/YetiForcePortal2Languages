@@ -25,6 +25,7 @@
     "LBL_MESSAGE": "Poruka",
     "LBL_ERROR_CODE": "Error code",
     "LBL_EXCEPTION": "Exception",
+    "ERR_OCCURRED_ERROR": "Error occurred, please inform the administrator",
     "LBL_SELECT": "Traži",
     "LBL_CLEAR": "Očisti",
     "LBL_RELATED_MODULE_TYPE": "Odaberite modul",
@@ -56,9 +57,16 @@
     "BTN_GENERATE_PDF": "Generiraj",
     "LBL_SUM_OPEN_ORDERS": "Zbir otvorenih prodajnih naloga",
     "LBL_CREDIT_LIMIT": "Prodajni limiti",
-    "LBL_HOME": "Kontrolna ploča"
+    "LBL_HOME": "Kontrolna ploča",
+    "FL_LOGIN_TIME": "Last login time",
+    "FL_STATUS": "Status",
+    "LBL_USER_AGENT": "User agent",
+    "LBL_IP_ADDRESS": "IP Address",
+    "LBL_WEB_LOAD_TIME": "Page loading time"
   },
   "js": {
+    "JS_YES": "Yes",
+    "JS_NO": "No",
     "JS_TODAY": "Danas",
     "JS_CLEAR_HISTORY": "Izbriši povijest",
     "JS_YESTERDAY": "Jučer",
@@ -130,6 +138,8 @@
     "JS_LOADING_PLEASE_WAIT": "Učitavanje, pričekajte.",
     "JS_NO_SUCH_QUANTITY": "Ne postoji takva količina proizvoda",
     "JS_FULL_TEXT": "Puni tekst",
-    "JS_CLOSE": "Zatvori"
+    "JS_CLOSE": "Zatvori",
+    "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Are you sure that you want to delete?",
+    "JS_MAXIMUM_TEXT_SIZE_IN_BYTES": "Exceeded the maximum text size in bytes"
   }
 }
