@@ -4,6 +4,7 @@
     "LBL_INSTALLATION_WIZARD_TITLE": "Portail client YetiForce - Assistant d'installation",
     "LBL_WELCOME_TO_SETUP_WIZARD": "Welcome to Customer Portal installation wizard",
     "LBL_SETUP_WIZARD_DESCRIPTION": "Cet assistant vous aidera à passer par le processus d'installation du portail YetiForce",
+    "LBL_LANGUAGES_PACKAGE": "Languages package",
     "LBL_INSTALL_BUTTON": "Installer",
     "LBL_API_PATH": "URL de l'API",
     "LBL_API_KEY": "Clé d'API",

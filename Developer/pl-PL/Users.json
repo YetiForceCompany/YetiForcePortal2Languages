@@ -26,7 +26,13 @@
     "LBL_FAILED_PASSWORD_CHANGED": "Nie udało się zmienić hasła",
     "LBL_NEW_PASSWORD_CRITERIA": "Nowe hasło musi spełniać następujące kryteria:",
     "LBL_MINIMUM_PASSWORD_LENGTH": "Minimalna długość hasła",
-    "LBL_MAXIMUM_PASSWORD_LENGTH": "Maksymalna długość hasła"
+    "LBL_MAXIMUM_PASSWORD_LENGTH": "Maksymalna długość hasła",
+    "LBL_FORGOT_PASSWORD_PAGE": "Nie pamiętam hasła",
+    "BTN_FORGOT_PASSWORD_PAGE": "Nie pamiętam hasła",
+    "LBL_FORGOT_PASSWORD_TOKEN": "Token resetowania hasła",
+    "LBL_RESET_PASSWORD_LINK_SENT": "Link do zmiany hasła czeka na wysłanie, może to potrwać kilka minut. Sprawdź swoją skrzynkę odbiorczą. Token jest ważny do %s",
+    "LBL_RESET_PASSWORD_SMTP_ERROR": "Problem z wysłaniem e-maila z resetem hasła, skontaktuj się z administratorem.",
+    "LBL_PASSWORD_SHOULD_BE_SAME": "Hasła muszą się zgadzać."
   },
   "js": {}
 }

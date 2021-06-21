@@ -58,11 +58,11 @@
     "LBL_SUM_OPEN_ORDERS": "Сума відкритих замовлень",
     "LBL_CREDIT_LIMIT": "Кредитні ліміти",
     "LBL_HOME": "Головна панель",
-    "FL_LOGIN_TIME": "Last login time",
-    "FL_STATUS": "Status",
-    "LBL_USER_AGENT": "User agent",
-    "LBL_IP_ADDRESS": "IP Address",
-    "LBL_WEB_LOAD_TIME": "Page loading time"
+    "FL_LOGIN_TIME": "Час останнього входу",
+    "FL_STATUS": "Статус",
+    "LBL_USER_AGENT": "Агент користувача",
+    "LBL_IP_ADDRESS": "IP-адреса",
+    "LBL_WEB_LOAD_TIME": "Час завантаження сторінки"
   },
   "js": {
     "JS_YES": "Так",
