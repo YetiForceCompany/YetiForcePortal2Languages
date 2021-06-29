@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_ADD_TO_CART": "Додати до кошика",
     "LBL_SEARCH_PRODUCT": "Пошук товару",
     "LBL_REMOVE_FROM_CART": "Видалити з кошика",
     "LBL_TOTAL_PRICE": "Загальна ціна",

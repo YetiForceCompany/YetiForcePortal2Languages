@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_ADD_TO_CART": "Adicionar ao carrinho",
     "LBL_SEARCH_PRODUCT": "Pesquisar um produto",
     "LBL_REMOVE_FROM_CART": "Remover do carrinho",
     "LBL_TOTAL_PRICE": "Preço Total",

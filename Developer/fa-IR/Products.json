@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_ADD_TO_CART": "افزودن به سبد خرید",
     "LBL_SEARCH_PRODUCT": "جستجو برای محصول",
     "LBL_REMOVE_FROM_CART": "حذف از سبد خرید",
     "LBL_TOTAL_PRICE": "جمع قیمت",

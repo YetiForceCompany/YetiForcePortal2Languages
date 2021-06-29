@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_ADD_TO_CART": "Добави в количката",
     "LBL_SEARCH_PRODUCT": "Търсене на продукт",
     "LBL_REMOVE_FROM_CART": "Премахване от количката",
     "LBL_TOTAL_PRICE": "Крайна цена",

@@ -21,7 +21,7 @@
     "LBL_CHANGE_COMPANY": "Zmiana firmy",
     "LBL_VIEW_CREATE": "Tworzenie",
     "LBL_VIEW_QUICK_CREATE": "Szybkie tworzenie",
-    "LBL_SELECT_IN_MODAL": "Kliknij ikonę szkła powiększającego i wybierz rekord",
+    "LBL_SELECT_IN_MODAL": "Kliknij ikonę lupy i wybierz rekord",
     "LBL_STEP_BACK": "Cofnij",
     "LBL_BACKTRACE": "Śledzenie ścieżki",
     "LBL_MESSAGE": "Wiadomość",
@@ -70,7 +70,8 @@
     "LBL_TO": "na",
     "LBL_SEARCH": "Szukaj",
     "LBL_ADD_YOUR_COMMENT_HERE": "Dodaj swój komentarz tutaj...",
-    "LBL_ADD": "Dodaj"
+    "LBL_ADD": "Dodaj",
+    "LBL_ADD_TO_CART": "Dodaj do koszyka"
   },
   "js": {
     "JS_YES": "Tak",

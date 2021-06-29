@@ -1,6 +1,5 @@
 {
   "php": {
-    "LBL_ADD_TO_CART": "Dodaj u korpu",
     "LBL_SEARCH_PRODUCT": "Pretraži proizvod",
     "LBL_REMOVE_FROM_CART": "Ukloni iz korpe",
     "LBL_TOTAL_PRICE": "Ukupna cijena",
