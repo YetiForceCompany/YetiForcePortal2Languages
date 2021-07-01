@@ -71,7 +71,8 @@
     "LBL_SEARCH": "Search",
     "LBL_ADD_YOUR_COMMENT_HERE": "Add your comment here...",
     "LBL_ADD": "Add",
-    "LBL_ADD_TO_CART": "Add to cart"
+    "LBL_ADD_TO_CART": "Add to cart",
+    "LBL_VIEW_PREVIEW": "Preview view"
   },
   "js": {
     "JS_YES": "Yes",
@@ -130,6 +131,7 @@
     "JS_WEEK": "Week",
     "JS_WEEK_SHORT": "WK",
     "JS_ERROR_MAX_VALUE": "Entered value is out of allowed range",
+    "JS_ERROR": "Error occurred, please inform the administrator",
     "INVALID_NUMBER": "Nevažeći broj",
     "INVALID_NUMBER_OF": "Nevažeći broj",
     "JS_INVALID_LENGTH": "Dodana vrijednost je nepotpuna",

@@ -71,7 +71,8 @@
     "LBL_SEARCH": "Szukaj",
     "LBL_ADD_YOUR_COMMENT_HERE": "Dodaj swój komentarz tutaj...",
     "LBL_ADD": "Dodaj",
-    "LBL_ADD_TO_CART": "Dodaj do koszyka"
+    "LBL_ADD_TO_CART": "Dodaj do koszyka",
+    "LBL_VIEW_PREVIEW": "Widok podglądu"
   },
   "js": {
     "JS_YES": "Tak",
@@ -130,6 +131,7 @@
     "JS_WEEK": "Tydzień",
     "JS_WEEK_SHORT": "T.",
     "JS_ERROR_MAX_VALUE": "Wprowadzona wartość jest poza dozwolonym zakresem",
+    "JS_ERROR": "Wystąpił błąd, poinformuj administratora",
     "INVALID_NUMBER": "Nieprawidłowy numer",
     "INVALID_NUMBER_OF": "Nieprawidłowy numer",
     "JS_INVALID_LENGTH": "Wprowadzona wartość jest niekompletna",
