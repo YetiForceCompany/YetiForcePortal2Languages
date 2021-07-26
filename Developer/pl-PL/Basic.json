@@ -72,7 +72,8 @@
     "LBL_ADD_YOUR_COMMENT_HERE": "Dodaj swój komentarz tutaj...",
     "LBL_ADD": "Dodaj",
     "LBL_ADD_TO_CART": "Dodaj do koszyka",
-    "LBL_VIEW_PREVIEW": "Widok podglądu"
+    "LBL_VIEW_PREVIEW": "Widok podglądu",
+    "LBL_MY_PREFERENCES": "Moje ustawienia"
   },
   "js": {
     "JS_YES": "Tak",

@@ -5,8 +5,8 @@
     "LBL_CORE_LOG": "Bitacora",
     "LBL_FIRST": "Primero",
     "LBL_LAST": "Último",
-    "BTN_ADD_RECORD": "Add record",
-    "BTN_SELECT_RECORD": "Select record",
+    "BTN_ADD_RECORD": "Añadir registro",
+    "BTN_SELECT_RECORD": "Seleccionar registro",
     "LBL_PAGES_HISTORY": "Historial de navegación",
     "LBL_VIEW_LISTVIEW": "Lista",
     "LBL_VIEW_DETAILVIEW": "Vista previa",
@@ -72,7 +72,8 @@
     "LBL_ADD_YOUR_COMMENT_HERE": "Add your comment here...",
     "LBL_ADD": "Add",
     "LBL_ADD_TO_CART": "Add to cart",
-    "LBL_VIEW_PREVIEW": "Preview view"
+    "LBL_VIEW_PREVIEW": "Preview view",
+    "LBL_MY_PREFERENCES": "My preferences"
   },
   "js": {
     "JS_YES": "Yes",

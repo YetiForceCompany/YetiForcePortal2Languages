@@ -1,8 +1,8 @@
 {
   "php": {
-    "LBL_REPLIES": "Replies",
-    "LBL_REPLY_SINGLE": "Reply",
-    "LBL_REPLY": "Reply"
+    "LBL_REPLIES": "Απαντήσεις",
+    "LBL_REPLY_SINGLE": "Απάντηση",
+    "LBL_REPLY": "Απάντηση"
   },
   "js": {}
 }

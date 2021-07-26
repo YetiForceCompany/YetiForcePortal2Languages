@@ -1,16 +1,16 @@
 {
   "php": {
-    "LBL_MORE_LIBRARY_INFO": "Library details",
-    "LBL_LICENSE": "License",
-    "LBL_LIBRARY_NAME": "Name",
-    "LBL_VERSION": "Version",
+    "LBL_MORE_LIBRARY_INFO": "Λεπτομέρειες βιβλιοθήκης",
+    "LBL_LICENSE": "Άδεια χρήσης",
+    "LBL_LIBRARY_NAME": "Όνομα",
+    "LBL_VERSION": "Έκδοση",
     "LBL_CREDITS_DESCRIPTION": " ",
-    "LBL_VIEW_CREDITS": "Licenses",
-    "LBL_MISSING_FILE": "Missing file",
-    "LBL_MISSING_LICENSE_FILE": "Missing license file",
-    "LBL_SHOW_MORE": "Show more",
-    "LBL_LIBRARY_HOMEPAGE": "Open library\"s website",
-    "LBL_GLOBAL_SEARCH": "Type keyword and press enter"
+    "LBL_VIEW_CREDITS": "Άδειες χρήσης",
+    "LBL_MISSING_FILE": "Χαμένο αρχείο",
+    "LBL_MISSING_LICENSE_FILE": "Λείπει το αρχείο άδειας χρήσης",
+    "LBL_SHOW_MORE": "Εμφάνιση περισσότερων",
+    "LBL_LIBRARY_HOMEPAGE": "Άνοιγμα βιβλιοθηκών ιστοσελίδας",
+    "LBL_GLOBAL_SEARCH": "Πληκτρολογήστε τη λέξη κλειδί και πατήστε enter"
   },
   "js": {}
 }
