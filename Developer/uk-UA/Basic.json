@@ -132,7 +132,7 @@
     "JS_WEEK": "Тиждень",
     "JS_WEEK_SHORT": "WK",
     "JS_ERROR_MAX_VALUE": "Введене значення знаходиться за межами допустимого діапазону",
-    "JS_ERROR": "Error occurred, please inform the administrator",
+    "JS_ERROR": "Помилка, будь ласка, повідомте адміністратора",
     "INVALID_NUMBER": "Невірний номер",
     "INVALID_NUMBER_OF": "Невірний номер",
     "JS_INVALID_LENGTH": "Додане значення неповне",
