@@ -71,6 +71,8 @@
     "LBL_SEARCH": "Пошук",
     "LBL_ADD_YOUR_COMMENT_HERE": "Додати свій коментар тут...",
     "LBL_ADD": "Додати",
+    "LBL_YES": "Так",
+    "LBL_NO": "Ні",
     "LBL_ADD_TO_CART": "Додати до кошика",
     "LBL_VIEW_PREVIEW": "Preview view",
     "LBL_MY_PREFERENCES": "My preferences"
@@ -133,7 +135,8 @@
     "JS_WEEK": "Тиждень",
     "JS_WEEK_SHORT": "WK",
     "JS_ERROR_MAX_VALUE": "Введене значення знаходиться за межами допустимого діапазону",
-    "JS_ERROR": "Помилка, будь ласка, повідомте адміністратора",
+    "JS_ERROR_ADMIN": "Помилка, будь ласка, повідомте адміністратора",
+    "JS_ERROR": "Error occurred",
     "INVALID_NUMBER": "Невірний номер",
     "INVALID_NUMBER_OF": "Невірний номер",
     "JS_INVALID_LENGTH": "Додане значення неповне",
@@ -175,6 +178,7 @@
     "JS_WAIT_FOR_FILE_UPLOAD": "Wait for files to be uploaded",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Ви дійсно бажаєте видалити?",
     "JS_MAXIMUM_TEXT_SIZE_IN_BYTES": "Перевищено максимальний розмір тексту в байтах",
-    "JS_SAVE_LOADER_INFO": "Saving data..."
+    "JS_SAVE_LOADER_INFO": "Saving data...",
+    "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Comment value cannot be empty"
   }
 }

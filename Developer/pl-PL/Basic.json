@@ -71,6 +71,8 @@
     "LBL_SEARCH": "Szukaj",
     "LBL_ADD_YOUR_COMMENT_HERE": "Dodaj swój komentarz tutaj...",
     "LBL_ADD": "Dodaj",
+    "LBL_YES": "Tak",
+    "LBL_NO": "Nie",
     "LBL_ADD_TO_CART": "Dodaj do koszyka",
     "LBL_VIEW_PREVIEW": "Widok podglądu",
     "LBL_MY_PREFERENCES": "Moje ustawienia"
@@ -133,7 +135,8 @@
     "JS_WEEK": "Tydzień",
     "JS_WEEK_SHORT": "T.",
     "JS_ERROR_MAX_VALUE": "Wprowadzona wartość jest poza dozwolonym zakresem",
-    "JS_ERROR": "Wystąpił błąd, poinformuj administratora",
+    "JS_ERROR_ADMIN": "Wystąpił błąd, poinformuj administratora",
+    "JS_ERROR": "Wystąpił błąd",
     "INVALID_NUMBER": "Nieprawidłowy numer",
     "INVALID_NUMBER_OF": "Nieprawidłowy numer",
     "JS_INVALID_LENGTH": "Wprowadzona wartość jest niekompletna",
@@ -175,6 +178,7 @@
     "JS_WAIT_FOR_FILE_UPLOAD": "Poczekaj na ukończenie wysyłania plików",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Czy na pewno chcesz usunąć?",
     "JS_MAXIMUM_TEXT_SIZE_IN_BYTES": "Przekroczono maksymalny rozmiar tekstu w bajtach",
-    "JS_SAVE_LOADER_INFO": "Trwa zapisywanie danych..."
+    "JS_SAVE_LOADER_INFO": "Trwa zapisywanie danych...",
+    "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Treść komentarza nie może być pusta"
   }
 }

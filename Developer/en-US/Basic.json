@@ -71,6 +71,8 @@
     "LBL_SEARCH": "Search",
     "LBL_ADD_YOUR_COMMENT_HERE": "Add your comment here...",
     "LBL_ADD": "Add",
+    "LBL_YES": "Yes",
+    "LBL_NO": "No",
     "LBL_ADD_TO_CART": "Add to cart",
     "LBL_VIEW_PREVIEW": "Preview view",
     "LBL_MY_PREFERENCES": "My preferences"
@@ -81,6 +83,7 @@
     "JS_SAVE_NOTIFY_SUCCESS": "Saved successfully",
     "JS_TODAY": "Today",
     "JS_CLEAR_HISTORY": "Clear history",
+    "JS_NO_RECORDS": "No records",
     "JS_YESTERDAY": "Yestarday",
     "JS_OLDER": "Older",
     "JS_SEARCH": "Search:",
@@ -132,7 +135,8 @@
     "JS_WEEK": "Week",
     "JS_WEEK_SHORT": "WK",
     "JS_ERROR_MAX_VALUE": "Entered value is out of allowed range",
-    "JS_ERROR": "Error occurred, please inform the administrator",
+    "JS_ERROR_ADMIN": "Error occurred, please inform the administrator",
+    "JS_ERROR": "Error occurred",
     "INVALID_NUMBER": "Invalid number",
     "INVALID_NUMBER_OF": "Invalid number of",
     "JS_INVALID_LENGTH": "Added value is incomplete",
@@ -161,7 +165,20 @@
     "JS_NO_SUCH_QUANTITY": "There is no such quantity of product",
     "JS_FULL_TEXT": "Full text",
     "JS_CLOSE": "Close",
+    "JS_DELETE": "Delete",
+    "JS_DELETE_FILE_CONFIRMATION": "Are you sure you want to delete this file?",
+    "JS_DELETE_FILE": "Deleting file",
+    "JS_ZOOM_IN": "Zoom in",
+    "JS_FILE_UPLOAD_ERROR": "Uploading file to server failed",
+    "JS_INVALID_FILE_HASH": "Invalid file hash",
+    "JS_DOWNLOAD": "Download",
+    "JS_INVALID_FILE_TYPE": "Invalid file type",
+    "JS_AVAILABLE_FILE_TYPES": "Available file types",
+    "JS_FILE_LIMIT": "Maximum number of files was exceeded",
+    "JS_WAIT_FOR_FILE_UPLOAD": "Wait for files to be uploaded",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Are you sure that you want to delete?",
-    "JS_MAXIMUM_TEXT_SIZE_IN_BYTES": "Exceeded the maximum text size in bytes"
+    "JS_MAXIMUM_TEXT_SIZE_IN_BYTES": "Exceeded the maximum text size in bytes",
+    "JS_SAVE_LOADER_INFO": "Saving data...",
+    "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Comment value cannot be empty"
   }
 }

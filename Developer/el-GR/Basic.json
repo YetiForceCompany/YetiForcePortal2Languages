@@ -71,6 +71,8 @@
     "LBL_SEARCH": "Αναζήτηση",
     "LBL_ADD_YOUR_COMMENT_HERE": "Προσθέστε το σχόλιό σας εδώ...",
     "LBL_ADD": "Προσθήκη",
+    "LBL_YES": "Ναι",
+    "LBL_NO": "Όχι",
     "LBL_ADD_TO_CART": "Προσθήκη στο καλάθι",
     "LBL_VIEW_PREVIEW": "Προεπισκόπηση",
     "LBL_MY_PREFERENCES": "Οι προτιμήσεις μου"
@@ -133,7 +135,8 @@
     "JS_WEEK": "Εβδομάδα",
     "JS_WEEK_SHORT": "WK",
     "JS_ERROR_MAX_VALUE": "Η τιμή που εισάγετε είναι εκτός επιτρεπόμενου εύρους",
-    "JS_ERROR": "Παρουσιάστηκε σφάλμα, παρακαλώ ενημερώστε το διαχειριστή",
+    "JS_ERROR_ADMIN": "Παρουσιάστηκε σφάλμα, παρακαλώ ενημερώστε το διαχειριστή",
+    "JS_ERROR": "Error occurred",
     "INVALID_NUMBER": "Μη έγκυρος αριθμός",
     "INVALID_NUMBER_OF": "Μη έγκυρος αριθμός",
     "JS_INVALID_LENGTH": "Η τιμή που εισαγάγατε δεν είναι ολοκληρωμένη",
@@ -175,6 +178,7 @@
     "JS_WAIT_FOR_FILE_UPLOAD": "Wait for files to be uploaded",
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Είστε σίγουροι ότι θέλετε να γίνει διαγραφή;",
     "JS_MAXIMUM_TEXT_SIZE_IN_BYTES": "Υπέρβαση του μέγιστου μεγέθους κειμένου σε bytes",
-    "JS_SAVE_LOADER_INFO": "Saving data..."
+    "JS_SAVE_LOADER_INFO": "Saving data...",
+    "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Comment value cannot be empty"
   }
 }
