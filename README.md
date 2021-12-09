@@ -16,5 +16,5 @@ To update and install language files copy the entire directory of a language, e.
 
 https://github.com/YetiForceCompany/YetiForcePortal2
 
-## Status
+# Status
 <img src="https://badges.awesome-crowdin.com/translation-13499741-354003.png" />
