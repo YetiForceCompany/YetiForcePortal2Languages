@@ -12,9 +12,9 @@ Our team adds translations in English on GitHub and they are synchronized with C
 
 To update and install language files copy the entire directory of a language, e.g. pl-PL to the portal directory  languages/pl-PL 
 
-# YetiForce Customer Portal
-
-https://github.com/YetiForceCompany/YetiForcePortal2
+# YetiForce
+- https://github.com/YetiForceCompany/YetiForcePortal2
+- https://yetiforce.com/
 
 # Status
 <img src="https://badges.awesome-crowdin.com/translation-13499741-354003.png" />
