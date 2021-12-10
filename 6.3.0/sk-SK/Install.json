@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_INSTALLATION_WIZARD": "Sprievodca inštaláciou",
+    "LBL_INSTALLATION_WIZARD_TITLE": "YetiForce Zákaznícky Portál - Sprievodca inštaláciou",
+    "LBL_WELCOME_TO_SETUP_WIZARD": "Vitajte v sprievodcovi inštaláciou zákazníckeho portálu",
+    "LBL_SETUP_WIZARD_DESCRIPTION": "Sprievodca Vám pomôže prejsť inštalačným procesom YetiForce Portal",
+    "LBL_LANGUAGES_PACKAGE": "Jazykové balíky",
+    "LBL_INSTALL_BUTTON": "Inštalovať",
+    "LBL_API_PATH": "API URL",
+    "LBL_API_KEY": "API kľúč",
+    "LBL_SERVER_NAME": "Prihlasovacie meno",
+    "LBL_SERVER_PASS": "Heslo",
+    "LBL_WRONG_PROPERTIES": "Nesprávne parametre",
+    "ERR_NOT_ENTERED_REQUIRED_DATA": "Neboli vložené požadované dáta"
+  },
+  "js": {}
+}

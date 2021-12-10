@@ -1,0 +1,16 @@
+{
+  "php": {
+    "LBL_MORE_LIBRARY_INFO": "Detaily knižnice",
+    "LBL_LICENSE": "Licencia",
+    "LBL_LIBRARY_NAME": "Názov",
+    "LBL_VERSION": "Verzia",
+    "LBL_CREDITS_DESCRIPTION": " ",
+    "LBL_VIEW_CREDITS": "Licencie",
+    "LBL_MISSING_FILE": "Chýbajúci súbor",
+    "LBL_MISSING_LICENSE_FILE": "Chýbajúci licenčný súbor",
+    "LBL_SHOW_MORE": "Zobraziť viac",
+    "LBL_LIBRARY_HOMEPAGE": "Otvoriť stránku knižnice",
+    "LBL_GLOBAL_SEARCH": "Zadajte kľúčové slovo a stlačte Enter"
+  },
+  "js": {}
+}
