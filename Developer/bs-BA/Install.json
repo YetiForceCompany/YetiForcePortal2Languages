@@ -1,8 +1,8 @@
 {
   "php": {
-    "LBL_INSTALLATION_WIZARD": "Installation wizard",
-    "LBL_INSTALLATION_WIZARD_TITLE": "YetiForce Customer Portal - Installation wizard",
-    "LBL_WELCOME_TO_SETUP_WIZARD": "Welcome to Customer Portal installation wizard",
+    "LBL_INSTALLATION_WIZARD": "Čarobnjak za instalaciju",
+    "LBL_INSTALLATION_WIZARD_TITLE": "YetiForce Customer Portal - Čarobnjak za instalaciju",
+    "LBL_WELCOME_TO_SETUP_WIZARD": "Dobrodošli u čarobnjak za instalaciju korisničkog portala",
     "LBL_SETUP_WIZARD_DESCRIPTION": "Ovaj će vam čarobnjak pomoći da prođete postupak instalacije YetiForce Portala",
     "LBL_LANGUAGES_PACKAGE": "Languages package",
     "LBL_INSTALL_BUTTON": "Instaliraj",
@@ -11,7 +11,7 @@
     "LBL_SERVER_NAME": "Prijava",
     "LBL_SERVER_PASS": "Lozinka",
     "LBL_WRONG_PROPERTIES": "Pogrešni parametri",
-    "ERR_NOT_ENTERED_REQUIRED_DATA": "The required data has not been entered"
+    "ERR_NOT_ENTERED_REQUIRED_DATA": "Traženi podaci nisu uneseni"
   },
   "js": {}
 }

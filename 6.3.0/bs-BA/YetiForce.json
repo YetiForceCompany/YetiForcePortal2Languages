@@ -1,16 +1,16 @@
 {
   "php": {
-    "LBL_MORE_LIBRARY_INFO": "Library details",
-    "LBL_LICENSE": "License",
-    "LBL_LIBRARY_NAME": "Name",
-    "LBL_VERSION": "Version",
+    "LBL_MORE_LIBRARY_INFO": "Detalji biblioteke",
+    "LBL_LICENSE": "Licenca",
+    "LBL_LIBRARY_NAME": "Naziv",
+    "LBL_VERSION": "Verzija",
     "LBL_CREDITS_DESCRIPTION": " ",
-    "LBL_VIEW_CREDITS": "Licenses",
-    "LBL_MISSING_FILE": "Missing file",
-    "LBL_MISSING_LICENSE_FILE": "Missing license file",
-    "LBL_SHOW_MORE": "Show more",
-    "LBL_LIBRARY_HOMEPAGE": "Open library\"s website",
-    "LBL_GLOBAL_SEARCH": "Type keyword and press enter"
+    "LBL_VIEW_CREDITS": "Licence",
+    "LBL_MISSING_FILE": "Nedostaje datoteka",
+    "LBL_MISSING_LICENSE_FILE": "Nedostaje datoteka sa licencom",
+    "LBL_SHOW_MORE": "Pokaži više",
+    "LBL_LIBRARY_HOMEPAGE": "Otvori web lokaciju biblioteke",
+    "LBL_GLOBAL_SEARCH": "Unesite ključnu riječ i pritisnite enter"
   },
   "js": {}
 }
