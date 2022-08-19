@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_INSTALLATION_WIZARD": "Installation wizard",
+    "LBL_INSTALLATION_WIZARD_TITLE": "YetiForce Customer Portal - Installation wizard",
+    "LBL_WELCOME_TO_SETUP_WIZARD": "Welcome to Customer Portal installation wizard",
+    "LBL_SETUP_WIZARD_DESCRIPTION": "این نصاب به شما کمک می‌کند که فرآیند نصب پرتال YetiForce طی نمایید",
+    "LBL_LANGUAGES_PACKAGE": "Languages package",
+    "LBL_INSTALL_BUTTON": "نصب",
+    "LBL_API_PATH": "API URL",
+    "LBL_API_KEY": "API Key",
+    "LBL_SERVER_NAME": "ورود",
+    "LBL_SERVER_PASS": "گذرواژه",
+    "LBL_WRONG_PROPERTIES": "پارامتر های اشتباه",
+    "ERR_NOT_ENTERED_REQUIRED_DATA": "The required data has not been entered"
+  },
+  "js": {}
+}

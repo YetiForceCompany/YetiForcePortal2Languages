@@ -1,0 +1,16 @@
+{
+  "php": {
+    "LBL_MORE_LIBRARY_INFO": "Detalji biblioteke",
+    "LBL_LICENSE": "Licenca",
+    "LBL_LIBRARY_NAME": "Naziv",
+    "LBL_VERSION": "Verzija",
+    "LBL_CREDITS_DESCRIPTION": " ",
+    "LBL_VIEW_CREDITS": "Licence",
+    "LBL_MISSING_FILE": "Nedostaje datoteka",
+    "LBL_MISSING_LICENSE_FILE": "Nedostaje datoteka sa licencom",
+    "LBL_SHOW_MORE": "Pokaži više",
+    "LBL_LIBRARY_HOMEPAGE": "Otvori web lokaciju biblioteke",
+    "LBL_GLOBAL_SEARCH": "Unesite ključnu riječ i pritisnite enter"
+  },
+  "js": {}
+}

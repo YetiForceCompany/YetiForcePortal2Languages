@@ -1,0 +1,17 @@
+{
+  "php": {
+    "LBL_INSTALLATION_WIZARD": "Kreator instalacji",
+    "LBL_INSTALLATION_WIZARD_TITLE": "Portal Klienta YetiForce - Kreator instalacji",
+    "LBL_WELCOME_TO_SETUP_WIZARD": "Witamy w kreatorze instalacji Portalu Klienta",
+    "LBL_SETUP_WIZARD_DESCRIPTION": "Ten kreator pomoże Ci przejść przez proces instalacji systemu Portal YetiForce",
+    "LBL_LANGUAGES_PACKAGE": "Pakiet językowy",
+    "LBL_INSTALL_BUTTON": "Instaluj",
+    "LBL_API_PATH": "Adres URL API",
+    "LBL_API_KEY": "Klucz API",
+    "LBL_SERVER_NAME": "Login",
+    "LBL_SERVER_PASS": "Hasło",
+    "LBL_WRONG_PROPERTIES": "Błędne parametry",
+    "ERR_NOT_ENTERED_REQUIRED_DATA": "Wymagane dane nie zostały wprowadzone"
+  },
+  "js": {}
+}
