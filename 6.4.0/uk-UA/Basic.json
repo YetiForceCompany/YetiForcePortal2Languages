@@ -128,7 +128,7 @@
     "JS_DATE_WEEK_DAY_SHORT_FRIDAY": "Пт",
     "JS_DATE_WEEK_DAY_SHORT_SATURDAY": "Сб",
     "JS_APPLY": "Застосувати",
-    "JS_OK": "Ok",
+    "JS_OK": "ОК",
     "JS_CANCEL": "Скасувати",
     "JS_CLEAR": "Очистити",
     "JS_FROM": "Від",
@@ -173,7 +173,7 @@
     "JS_ZOOM_IN": "Zoom in",
     "JS_FILE_UPLOAD_ERROR": "Uploading file to server failed",
     "JS_INVALID_FILE_HASH": "Неправильний хеш файлу",
-    "JS_DOWNLOAD": "Download",
+    "JS_DOWNLOAD": "Завантажити",
     "JS_INVALID_FILE_TYPE": "Неправильний тип файла",
     "JS_AVAILABLE_FILE_TYPES": "Доступні типи файлів",
     "JS_FILE_LIMIT": "Maximum number of files was exceeded",
@@ -181,6 +181,6 @@
     "JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE": "Ви дійсно бажаєте видалити?",
     "JS_MAXIMUM_TEXT_SIZE_IN_BYTES": "Перевищено максимальний розмір тексту в байтах",
     "JS_SAVE_LOADER_INFO": "Збереження даних...",
-    "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Comment value cannot be empty"
+    "JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY": "Коментар не може бути порожнім"
   }
 }

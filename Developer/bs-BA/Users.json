@@ -32,7 +32,8 @@
     "LBL_FORGOT_PASSWORD_TOKEN": "Token za poništavanje lozinke",
     "LBL_RESET_PASSWORD_LINK_SENT": "Link za promjenu lozinke čeka na slanje, može potrajati nekoliko minuta. Molimo provjerite inbox. Token vrijedi do %s",
     "LBL_RESET_PASSWORD_SMTP_ERROR": "Problem pri slanju e-pošte za poništavanje lozinke, obratite se administratoru.",
-    "LBL_PASSWORD_SHOULD_BE_SAME": "Obje lozinke moraju se podudarati."
+    "LBL_PASSWORD_SHOULD_BE_SAME": "Obje lozinke moraju se podudarati.",
+    "LBL_INCORRECT_ACCESS_DATA": "Incorrect access data"
   },
   "js": {}
 }

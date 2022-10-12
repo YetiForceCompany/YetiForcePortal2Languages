@@ -32,7 +32,8 @@
     "LBL_FORGOT_PASSWORD_TOKEN": "Код для скидання пароля",
     "LBL_RESET_PASSWORD_LINK_SENT": "Посилання на зміну пароля очікує відправлення, це може зайняти кілька хвилин. Будь ласка, перевірте вашу поштову скриньку. Цей токен дійсний до %s",
     "LBL_RESET_PASSWORD_SMTP_ERROR": "Помилка під час відправлення листа на скидання паролю, будь ласка, зверніться до адміністратора.",
-    "LBL_PASSWORD_SHOULD_BE_SAME": "Паролі повинні збігатися."
+    "LBL_PASSWORD_SHOULD_BE_SAME": "Паролі повинні збігатися.",
+    "LBL_INCORRECT_ACCESS_DATA": "Incorrect access data"
   },
   "js": {}
 }

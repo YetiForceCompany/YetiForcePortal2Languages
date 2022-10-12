@@ -32,7 +32,8 @@
     "LBL_FORGOT_PASSWORD_TOKEN": "Token resetu hesla",
     "LBL_RESET_PASSWORD_LINK_SENT": "Odkaz pre reset hesla čaká na odoslanie, môže to trvať niekoľko minút. Prosím skontrolujte doručenú poštu. Token je platný do %s",
     "LBL_RESET_PASSWORD_SMTP_ERROR": "Vyskytol sa problém s odoslaním emailu pre reset hesla, prosím kontaktujte administrátora.",
-    "LBL_PASSWORD_SHOULD_BE_SAME": "Heslá sa musia zhodovať."
+    "LBL_PASSWORD_SHOULD_BE_SAME": "Heslá sa musia zhodovať.",
+    "LBL_INCORRECT_ACCESS_DATA": "Incorrect access data"
   },
   "js": {}
 }
