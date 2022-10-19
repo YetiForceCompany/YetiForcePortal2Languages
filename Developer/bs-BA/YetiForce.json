@@ -10,6 +10,8 @@
     "LBL_MISSING_LICENSE_FILE": "Nedostaje datoteka sa licencom",
     "LBL_SHOW_MORE": "Pokaži više",
     "LBL_LIBRARY_HOMEPAGE": "Otvori web lokaciju biblioteke",
+    "LBL_LICENSE_ERROR": "License error",
+    "LBL_MISSING_PACKAGE_FILE": "Missing library files",
     "LBL_GLOBAL_SEARCH": "Unesite ključnu riječ i pritisnite enter"
   },
   "js": {}

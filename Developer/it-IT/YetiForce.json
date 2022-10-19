@@ -10,6 +10,8 @@
     "LBL_MISSING_LICENSE_FILE": "File di licenza mancante",
     "LBL_SHOW_MORE": "Mostra di più",
     "LBL_LIBRARY_HOMEPAGE": "Apri il sito web della libreria",
+    "LBL_LICENSE_ERROR": "License error",
+    "LBL_MISSING_PACKAGE_FILE": "Missing library files",
     "LBL_GLOBAL_SEARCH": "Digita la parola chiave e premi Inserisci"
   },
   "js": {}

@@ -10,6 +10,8 @@
     "LBL_MISSING_LICENSE_FILE": "Відсутній файл ліцензії",
     "LBL_SHOW_MORE": "Показати більше",
     "LBL_LIBRARY_HOMEPAGE": "Відкрити сайт бібліотеки",
+    "LBL_LICENSE_ERROR": "License error",
+    "LBL_MISSING_PACKAGE_FILE": "Missing library files",
     "LBL_GLOBAL_SEARCH": "Введіть слово для пошуку"
   },
   "js": {}

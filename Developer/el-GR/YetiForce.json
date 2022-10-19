@@ -10,6 +10,8 @@
     "LBL_MISSING_LICENSE_FILE": "Λείπει το αρχείο άδειας χρήσης",
     "LBL_SHOW_MORE": "Εμφάνιση περισσότερων",
     "LBL_LIBRARY_HOMEPAGE": "Άνοιγμα βιβλιοθηκών ιστοσελίδας",
+    "LBL_LICENSE_ERROR": "License error",
+    "LBL_MISSING_PACKAGE_FILE": "Missing library files",
     "LBL_GLOBAL_SEARCH": "Πληκτρολογήστε τη λέξη κλειδί και πατήστε enter"
   },
   "js": {}
